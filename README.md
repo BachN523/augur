@@ -1,4 +1,4 @@
-<img src="https://github.com/BachN523/augur/assets/143150118/5c83ebec-b666-4e3b-bbfa-0044ea38b9a8" width="500">
+<img src="https://github.com/BachN523/augur/assets/143150118/5c83ebec-b666-4e3b-bbfa-0044ea38b9a8" width="1000">
 
 # Augur NEW Release v0.51.1
 
